@@ -11,10 +11,13 @@ var lastname = prompt('Inserisci il tuo cognome');
 //qual'è il tuo colore preferito
 var color = prompt('Il tuo colore preferito');
 
+//classa 40
+const classe = prompt('40');
+
 
 
 //concatenare tutti i valori in una password
-var password = name + lastname + color + 40;
+var password = name + lastname + color + classe;
 
 
 
